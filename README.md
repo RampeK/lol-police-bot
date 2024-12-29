@@ -21,4 +21,4 @@ This bot was created as a light-hearted project to learn about:
 - Version control practices
 
 ## Note
-This is a joke project and should be treated as such. It was developed for learning purposes and to add some humor to Discord servers.
+This is a joke project and should be treated as such. It was developed for learning purposes and to add some humor to Discord servers. Invite to your server will be available once the review at Top.gg is done and this README will be updated.
